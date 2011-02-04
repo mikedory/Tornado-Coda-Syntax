@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seestyle>
+<mode id="SEEMode.Tornado-Template">
+  <style id="_Default"
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#2b2b2b" inverted-background-color="#000000" />
+  <style id="/Tornado-Template/Entities"
+    color="#6c99bb" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/Tornado-Template Tag"
+    color="#d3d3d3" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/Tornado-Template Tag Delimiter"
+    color="#9696b5" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/Tornado-Template Tag Names"
+    color="#cc7832" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/Tornado-Template Tag Filters"
+    color="#ff9c26" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/Tornado-Template Templatetag"
+    color="#ff9c26" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/Tornado-Template Context Variable"
+    color="#6c99bb" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/Tornado-Template Context Variable Delimiter"
+    color="#9696b5" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/Tornado-Template Context Variable Filters"
+    color="#9696b5" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/Tornado-Template Forloop"
+    color="#9696b5" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/Tornado-Template String"
+    color="#00b7dd" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/Tornado-Template SingleString"
+    color="#00b7dd" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/Tornado-Template Comment"
+    color="#666666" inverted-color="#7fffff"  font-style="italic" font-weight="normal" />
+  <style id="/Tornado-Template/Comment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Tornado-Template/SGML Double Dash"
+    color="#cc4232" inverted-color="#ff0000"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/CDATA"
+    color="#cc4232" inverted-color="#ff0000"  font-style="italic" font-weight="normal" />
+  <style id="/Tornado-Template/Doctype"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Tornado-Template/Escape"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Tornado-Template/Inline CSS"
+    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/Style Tags"
+    color="#ffc05c" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/Opening Style Tag"
+    color="#ffc05c" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/Attributes in Tags"
+    color="#cc7832" inverted-color="#ffab66"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/Strings in Tags"
+    color="#a0c25f" inverted-color="#5959e5"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/Inside curly brackets"
+    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Keywords"
+    color="#cc762e" inverted-color="#ec77b3"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/Attribute state"
+    color="#d8d8d8" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Attributes"
+    color="#9b4400" inverted-color="#ffa864"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Digits"
+    color="#0000ff" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Colors"
+    color="#760f15" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/CSSComment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Tornado-Template/CSSRound bracket"
+    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/CSSString"
+    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/CSSSingleString"
+    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/Inline Javascript"
+    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/Script Tags"
+    color="#ffc05c" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/Keywords"
+    color="#cc762e" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/Numbers"
+    color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/Characters"
+    color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/FunctionRegex"
+    color="#da4632" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/Opening Script Tag"
+    color="#ffc05c" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/JSAutodocComment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Tornado-Template/JSComment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Tornado-Template/JSSingleComment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Tornado-Template/JSRegEx"
+    color="#8856d2" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/JSString"
+    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/JSSingleString"
+    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado-Template/Tags"
+    color="#ffc05c" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+</mode>
+</seestyle>

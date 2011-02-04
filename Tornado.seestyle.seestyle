@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seestyle>
+<mode id="SEEMode.Tornado">
+  <style id="_Default"
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#ffffff" inverted-background-color="#000000" />
+  <style id="/Tornado/Tornado Objects"
+    color="#aec8d9" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado/Tornado Decorators"
+    color="#ffc05c" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado/Tornado Common Functions"
+    color="#ffc05c" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado/Tornado Database API"
+    color="#ffc05c" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado/Tornado Exceptions"
+    color="#ffc05c" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado/Tornado URLConf"
+    color="#ffc05c" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado/Tornado Common Objects"
+    color="#ffc05c" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado/Tornado Model Fields"
+    color="#ffc05c" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado/Tornado Form Fields"
+    color="#ffc05c" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado/Tornado Widgets"
+    color="#ffc05c" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+  <style id="/Tornado/Tornado Authentication"
+    color="#ffc915" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+  <style id="/Python/Special Attributes"
+    color="#e01b26" inverted-color="#ff0000"  font-style="normal" font-weight="normal" />
+  <style id="/Python/Built-in Constants"
+    color="#cc7832" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
+  <style id="/Python/Types"
+    color="#00b301" inverted-color="#4cff4d"  font-style="normal" font-weight="normal" />
+  <style id="/Python/Exceptions"
+    color="#f79600" inverted-color="#ff9e08"  font-style="normal" font-weight="normal" />
+  <style id="/Python/Special Methods"
+    color="#ffc05c" inverted-color="#ff0000"  font-style="normal" font-weight="normal" />
+  <style id="/Python/Built-In Functions"
+    color="#da4632" inverted-color="#bb77ff"  font-style="normal" font-weight="normal" />
+  <style id="/Python/Keywords"
+    color="#cc7832" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
+  <style id="/Python/Numbers"
+    color="#6c99bc" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/Python/Singleline Comment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Python/String with triple double quotes"
+    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/Python/String with triple single quotes"
+    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/Python/String with double quotes"
+    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/Python/String with single quotes"
+    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/Python/Backticks"
+    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+</mode>
+</seestyle>
